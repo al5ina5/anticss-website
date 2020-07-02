@@ -12,7 +12,8 @@ class Header extends React.Component {
                     <Link href="/docs">
                         <a>Docs & Example</a>
                     </Link>
-                    <a target="_blank" href="http://github.com/al5ina5/anticss">Github</a>
+                    <a target="_blank" href="http://github.com/al5ina5/anticss">GitHub</a>
+                    <a target="_blank" href="https://www.npmjs.com/package/anticss">npm</a>
                     <Link href="/support">
                         <a>Support anti.css</a>
                     </Link>

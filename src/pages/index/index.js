@@ -32,8 +32,8 @@ class Index extends React.Component {
                 <pre>
                     import 'anticss'
                 </pre>
-                <p>2. Link anti.css into your HTML file form the global CDN.</p>
-                <pre>&lt;link rel="stylesheet" href="./anti.min.css" /&gt;</pre>
+                <p>2. Link anti.css into your HTML file from the global CDN.</p>
+                <pre>&lt;link rel="stylesheet" href="http://unpkg.com/anticss@latest/anti.css" /&gt;</pre>
             </section>
 
             <section>
