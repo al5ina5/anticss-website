@@ -9,7 +9,7 @@ class Footer extends React.Component {
             <Header />
             <section>
                 <footer>
-                    <p>Designed and Developed by Sebastian Alsina</p>
+                    <p>Designed and Developed by <a href="https://sebastianalsina.com">Sebastian Alsina</a></p>
                 </footer>
             </section>
         </>

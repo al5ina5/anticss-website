@@ -1,4 +1,5 @@
 import React from 'react'
+import Codepen from 'react-codepen-embed'
 
 import Header from '../../components/Header/Header'
 
@@ -18,9 +19,9 @@ class Index extends React.Component {
             <section>
                 <h2>Prefect for..</h2>
                 <ul>
-                    <li>Dead simple blogs + content-first websites.</li>
-                    <li>Developing easy-to-read HTML only prototypes.</li>
-                    <li>Super light-weight, attractive, modernt websites.</li>
+                    <li>Dead simple <u>blogs + content-first websites</u>.</li>
+                    <li>Developing easy-to-read HTML only <i>prototypes</i>.</li>
+                    <li>Super light-weight, attractive, modern websites.</li>
                     <li><b>Beginners</b>.</li>
                 </ul>
             </section>
@@ -33,7 +34,11 @@ class Index extends React.Component {
                     import 'anticss'
                 </pre>
                 <p>2. Link anti.css into your HTML file from the global CDN.</p>
-                <pre>&lt;link rel="stylesheet" href="http://unpkg.com/anticss@latest/anti.css" /&gt;</pre>
+                <pre>&lt;link rel="stylesheet" href="https://unpkg.com/anticss" /&gt;</pre>
+            </section>
+
+            <section>
+                <Codepen height={'500'} hash="ExPoPjx" user="al5ina5" />
             </section>
 
             <section>
@@ -41,23 +46,12 @@ class Index extends React.Component {
                 <p>
                     Both this website and the anti.css framework are fully open source.
                 </p>
-                <pre>
-                    https://github.com/al5ina5/anticss-website
-                </pre>
-            </section>
-
-            <section>
-                <h2>Social Media</h2>
-                <p>More from anti.css and it's developers.</p>
-                <button>Discord</button>
-                <button>Twitter</button>
-                <button>Github</button>
-            </section>
-
-            <section>
-                <h2>Sponsors</h2>
-                <p>Sponsors help support free tools.</p>
-                <button>Become a Sponsor</button>
+                <a target="_blank" href="https://github.com/al5ina5/anticss">
+                    <button>github/anticss</button>
+                </a>
+                <a target="_blank" href="https://github.com/al5ina5/anticss-website">
+                    <button>github/anticss-website</button>
+                </a>
             </section>
 
         </>

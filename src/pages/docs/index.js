@@ -16,13 +16,13 @@ class Docs extends React.Component {
                 </p>
                 <ul>
                     <li>
-                        anti.css weighs less than <b>10kb</b>! Micro-light for your project.
+                        anti.css weighs less than <b>5kb</b>! Micro-light for your project.
                     </li>
                     <li>
                         anti.css supports <b>boldening</b>, <i>itaclizing</i>, and <u>underlining</u>.
                     </li>
                     <li>
-                        Under the hood, anti.css uses <a href="https://meyerweb.com/eric/tools/css/reset/">Eric Meyer's CSS Reset</a>to standardize things <i>across browsers</i>.
+                        Under the hood, anti.css uses <a href="https://meyerweb.com/eric/tools/css/reset/">Eric Meyer's CSS Reset</a> to standardize things <i>across browsers</i>.
                     </li>
                 </ul>
             </section>
@@ -33,7 +33,8 @@ class Docs extends React.Component {
                 <h2>Here's an h2.</h2>
                 <h3>Here's an h3.</h3>
                 <h4>Here's an h4.</h4>
-                <h5>Here's an h4.</h5>
+                <h5>Here's an h5.</h5>
+                <h6>Here's an h6.</h6>
             </section>
 
             <section>
