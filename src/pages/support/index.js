@@ -12,6 +12,8 @@ class Support extends React.Component {
                 <pre>3AJ6FtwZpvP6UExcPqnG4hWgivvAxf8ejf</pre>
                 <h3>Stellar Address</h3>
                 <pre>GDY6TJFWJTEPY6UPYTE7756I3LAY34FODNJET3TJPNJKN34UMS4PGVM7</pre>
+                <h3>Patreon</h3>
+                <p><a href="https://www.patreon.com/bePatron?u=23781356" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
             </section>
         </>
     }

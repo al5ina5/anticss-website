@@ -10,7 +10,7 @@ class Header extends React.Component {
                         <a>Home</a>
                     </Link>
                     <Link href="/docs">
-                        <a>Docs & Example</a>
+                        <a>Docs & Examples</a>
                     </Link>
                     <a target="_blank" href="http://github.com/al5ina5/anticss">GitHub</a>
                     <a target="_blank" href="https://www.npmjs.com/package/anticss">npm</a>
