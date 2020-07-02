@@ -37,6 +37,16 @@ class Index extends React.Component {
             </section>
 
             <section>
+                <h2>Open Source</h2>
+                <p>
+                    Both this website and the anti.css framework are fully open source.
+                </p>
+                <pre>
+                    https://github.com/al5ina5/anticss-website
+                </pre>
+            </section>
+
+            <section>
                 <h2>Social Media</h2>
                 <p>More from anti.css and it's developers.</p>
                 <button>Discord</button>
