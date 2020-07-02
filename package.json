@@ -1,5 +1,5 @@
 {
-  "name": "uncss",
+  "name": "anticss-website",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Sebastian Alsina",
@@ -7,9 +7,11 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "git add . && git commit -am \"Auto Deploy\" && git push"
   },
   "dependencies": {
+    "anticss": "^1.0.0",
     "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

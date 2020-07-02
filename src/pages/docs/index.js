@@ -61,34 +61,36 @@ class Docs extends React.Component {
                     The <code>&lt;table&gt;</code> tags
                 </h2>
                 <p>
-                    anti.css supports many HTML tags, and we're always adding more. <a href="">Create an issue on GitHub</a> if you have HTML tags you'd like to see added to <un class="css"></un>
+                    anti.css supports many HTML tags, and we're always adding more. <a href="">Create an issue on GitHub</a> if you have HTML tags you'd like to see added to anti.css.
                 </p>
                 <table>
-                    <tr>
-                        <th>Name</th>
-                        <th>Tags</th>
-                        <th>Support</th>
-                    </tr>
-                    <tr>
-                        <td>Quote</td>
-                        <td><code>&lt;blockquote&gt;</code></td>
-                        <td>Supported!</td>
-                    </tr>
-                    <tr>
-                        <td>Code</td>
-                        <td><code>&lt;code&gt;</code></td>
-                        <td>Supported!</td>
-                    </tr>
-                    <tr>
-                        <td>Code Blocks</td>
-                        <td><code>&lt;pre&gt;</code></td>
-                        <td>Supported!</td>
-                    </tr>
-                    <tr>
-                        <td>More</td>
-                        <td>...</td>
-                        <td>Supported!</td>
-                    </tr>
+                    <tbody>
+                        <tr>
+                            <th>Name</th>
+                            <th>Tags</th>
+                            <th>Support</th>
+                        </tr>
+                        <tr>
+                            <td>Quote</td>
+                            <td><code>&lt;blockquote&gt;</code></td>
+                            <td>Supported!</td>
+                        </tr>
+                        <tr>
+                            <td>Code</td>
+                            <td><code>&lt;code&gt;</code></td>
+                            <td>Supported!</td>
+                        </tr>
+                        <tr>
+                            <td>Code Blocks</td>
+                            <td><code>&lt;pre&gt;</code></td>
+                            <td>Supported!</td>
+                        </tr>
+                        <tr>
+                            <td>More</td>
+                            <td>...</td>
+                            <td>Supported!</td>
+                        </tr>
+                    </tbody>
                 </table>
             </section>
 

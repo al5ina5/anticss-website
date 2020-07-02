@@ -12,9 +12,10 @@ class Header extends React.Component {
                     <Link href="/docs">
                         <a>Docs & Example</a>
                     </Link>
-                    <a href="http://github.com/al5ina5/anticss">Github</a>
-                    <a>Developer</a>
-                    <a>Support anti.css</a>
+                    <a target="_blank" href="http://github.com/al5ina5/anticss">Github</a>
+                    <Link href="/support">
+                        <a>Support anti.css</a>
+                    </Link>
                 </nav>
             </section>
         </>

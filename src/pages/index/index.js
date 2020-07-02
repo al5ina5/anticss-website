@@ -8,28 +8,40 @@ class Index extends React.Component {
             <section>
                 <h1>Welcome to anti.css.</h1>
                 <h2>
-                    Develop modern websites in HTML. anti.css is a classless<b>*</b> CSS framework developed with designing prototypes in mind.
+                    Develop modern websites with just HTML. anti.css is a classless<b>*</b> CSS framework developed with designing prototypes in mind.
                 </h2>
                 <h3>
                     Use anti.css to quickly layout beautifully-designed pages to test the functionality of your web-app, without the clutter of CSS classes.
-            </h3>
-                <p>Using anti.css is easy.</p>
-                <pre>&lt;link rel="stylesheet" href="./uncss.css" /&gt;</pre>
-                <button>View Page Source</button>
+                </h3>
             </section>
 
             <section>
-                <h2>Join the Mailing List</h2>
-                <p>Want in on other fun web stuff I build? I think you do.</p>
-                <form>
-                    <label for="email">Email</label>
-                    <input
-                        type="text"
-                        name="email"
-                        placeholder="Enter your Email"
-                    />
-                    <input type="submit" />
-                </form>
+                <h2>Prefect for..</h2>
+                <ul>
+                    <li>Dead simple blogs + content-first websites.</li>
+                    <li>Developing easy-to-read HTML only prototypes.</li>
+                    <li>Super light-weight, attractive, modernt websites.</li>
+                    <li><b>Beginners</b>.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Only 5kb.</h2>
+                <p>Using anti.css is easy. Here's 2 easy ways:</p>
+                <p>1. Download it with your favorite package manager, such as <code>npm install anticss</code> or <code>yarn add anticss</code>.</p>
+                <pre>
+                    import 'anticss'
+                </pre>
+                <p>2. Link anti.css into your HTML file form the global CDN.</p>
+                <pre>&lt;link rel="stylesheet" href="./anti.min.css" /&gt;</pre>
+            </section>
+
+            <section>
+                <h2>Social Media</h2>
+                <p>More from anti.css and it's developers.</p>
+                <button>Discord</button>
+                <button>Twitter</button>
+                <button>Github</button>
             </section>
 
             <section>
