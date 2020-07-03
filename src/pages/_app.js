@@ -2,7 +2,7 @@ import '../anti.css'
 // import 'anticss'
 
 import Header from '../components/Header/Header'
-import Footer from '../components/Footer/Footer'
+import Footer from '../components/Footer'
 
 function MyApp({ Component, pageProps }) {
     return <>
