@@ -1,8 +1,6 @@
 import React from 'react'
 import Codepen from 'react-codepen-embed'
 
-import Header from '../../components/Header/Header'
-
 class Index extends React.Component {
     render() {
         return <>
@@ -38,7 +36,7 @@ class Index extends React.Component {
             </section>
 
             <section>
-                <Codepen height={'500'} hash="ExPoPjx" user="al5ina5" />
+                <Codepen height={500} hash="ExPoPjx" user="al5ina5" />
             </section>
 
             <section>

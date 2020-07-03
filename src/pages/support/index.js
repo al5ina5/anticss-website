@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Header from '../../components/Header/Header'
+import Header from '../../components/'
 
 class Support extends React.Component {
     render() {
