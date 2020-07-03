@@ -9,7 +9,7 @@ class Support extends React.Component {
                 <h1>Support anti.css</h1>
                 <p>If you'd like to support anti.css because you found it helpful, clever, ingenious, attractive, or maybe because you absolutely hate it, you'd be contributing to something great!</p>
                 <h3>Patreon</h3>
-                <a href="patreon.com/sebastianalsina">
+                <a href="https://patreon.com/sebastianalsina">
                     <button>
                         Become a Patron
                     </button>

@@ -17,7 +17,7 @@ class Index extends React.Component {
             </section>
 
             <section>
-                <h2>Prefect for..</h2>
+                <h2>Perfect for...</h2>
                 <ul>
                     <li>Dead simple <u>blogs + content-first websites</u>.</li>
                     <li>Developing easy-to-read HTML only <i>prototypes</i>.</li>

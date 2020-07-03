@@ -62,7 +62,7 @@ class Docs extends React.Component {
                     The <code>&lt;table&gt;</code> tags
                 </h2>
                 <p>
-                    anti.css supports many HTML tags, and we're always adding more. <a href="">Create an issue on GitHub</a> if you have HTML tags you'd like to see added to anti.css.
+                    anti.css supports many HTML tags, and we're always adding more. <a target="_blank" href="https://github.com/al5ina5/anticss/issues">Create an issue on GitHub</a> if you have HTML tags you'd like to see added to anti.css.
                 </p>
                 <table>
                     <tbody>
